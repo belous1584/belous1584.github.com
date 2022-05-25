@@ -1,12 +1,3 @@
-<html>
-  <head></head>
-  <body>
-        <?php
+<?php
 
-$NAME = $_GET['NAME'];
-
-echo htmlspecialchars($NAME);
-
-?>
-  </body>
-<html>
+echo 'Hello, World!';
